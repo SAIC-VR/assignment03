@@ -28,7 +28,7 @@ In order to receive full credit for the assignment you must do at minimum the st
 1. Clone the github repository to your desktop.
 2. Modify the scene **assignment03**:
 	- Addnavigation, either to move in the direction the user is looking when a button is pressed, or by using a teleporter.
-	- Add elemtens to the envrionment, like models, lights, skyboxes, etc.
+	- Add elemtens to the environment, like a floor, models, lights, skyboxes, etc.
 	- Add a `Box Collider` to the table so user and objects don't go through it.
 	- Add a `Rigidbody` component to the Volleyball.
 	- Add a `Sphere Collider` to the Volleyball.
