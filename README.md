@@ -1,6 +1,6 @@
 # ATS ARTTECH 4135-001: Virtual Reality
 ## Assignment03 - *VR user and interactions* 
-## Due date: 03/08/2018
+## Due date: 09/28/2018 at 11:59pm
 
 In this assignment you will start with the github classroom link, create your own assignment repository, clone it on to your computer, make modifications to the unity project, commit the changes, and push back the updated repository to github.
 
